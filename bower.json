@@ -1,0 +1,26 @@
+{
+  "name": "bower-loadgo",
+  "authors": [
+    "Sachin Pande <sazap10@gmail.com>"
+  ],
+  "description": "Bower package of the jquery plugin loadgo.  http://franverona.com/loadgo/",
+  "main": "loadgo.js",
+  "moduleType": [],
+  "keywords": [
+    "bower",
+    "loadgo",
+    "jquery"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1"
+  }
+}
